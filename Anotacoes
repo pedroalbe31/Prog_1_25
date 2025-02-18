@@ -1,4 +1,35 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 01 - 
+
 IDE = Integrated Development Environmet
 ASP = Active Server Pages
 -- Razor / Blazor
 ORM = OBJECT RELATIONAL MAPPING
+
+Aplicação Web
+Opera em uma arquitetura Client (Minha máquina) / Server (DataCenter que hospeda o site)
+
+DNS = DOMAIN NAME SYSTEM
+
+HTTP / HTTPS = HYPERTEXT TRANSFER PROTOCOL (SECURE)
+
+HTML = HYPERTEXT MARKUP LANGUAGE
+
+ARQUITETURA MVC = MODEL VIEW CONTROLER
+
+MODEL (MODELO) = especifica os dados que compõem a aplicação
+CONTROL (CONTROLADOR) = Responde ao comandos na aplicação - Camada da aplicação que vai responder os comandos
+VIEW (VISÃO) = Tela / User interface
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 02 - 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
