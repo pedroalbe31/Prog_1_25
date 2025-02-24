@@ -22,13 +22,11 @@ MODEL (MODELO) = especifica os dados que compõem a aplicação
 CONTROL (CONTROLADOR) = Responde ao comandos na aplicação - Camada da aplicação que vai responder os comandos
 VIEW (VISÃO) = Tela / User interface
 
-
-
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Aula 02 - 
+
+
 
 
 
