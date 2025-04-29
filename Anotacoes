@@ -73,7 +73,16 @@ Objetos de Negócios - são as classes projetadas para solucionar problemas de u
 
 -------------
 Exercicio 
-Tabelas: Clinica | Parceiros | Animais | Atendimentos | 
+Tabelas: Animal | Veterinario | Atendimentos | Clinica
+
+Animal: ID, Nome, Raça, Data nascimento, Peso, Altura, Responsável
+-------------
+Veterinario: ID, Nome, Email, CRM, Documento, Data nascimento
+-------------
+Atendimentos: ID, Animal, Veterinario, Data e hora, Local, Laudo
+-------------
+Clinica: Endereço, Data e hora
+-------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
