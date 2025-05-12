@@ -55,6 +55,7 @@ td = table data
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aula 06 - 
+
 OOP - PROGRAMAÇÃO ORIENTADA A OBJETO
 Clean Code - Defensive Coding 0 iterative agile - API (Axes Program Interface) - Design Patterns - Domain Driven Design - .NET apps
 -------------
@@ -69,22 +70,26 @@ Paradigma = Modelo Padrão a ser seguido
 Objetos de Negócios - são as classes projetadas para solucionar problemas de um determinado domínio de alicação do software.
 -------------
 
--------------
-
--------------
 Exercicio 
 Tabelas: Animal | Veterinario | Atendimentos | Clinica
 
 Animal: ID, Nome, Raça, Data nascimento, Peso, Altura, Responsável
--------------
+
 Veterinario: ID, Nome, Email, CRM, Documento, Data nascimento
--------------
+
 Atendimentos: ID, Animal, Veterinario, Data e hora, Local, Laudo
--------------
+
 Clinica: Endereço, Data e hora
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aula 07 - 
+
+Organizando a Estrutura da Aplicação em CAMADAS:
+Camada de interface;
+Camada de Logica de negócios;
+Camada de Acesso de dados;
+Camada de Código Comum.
 -------------
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
